@@ -12,6 +12,12 @@ export default function ({}: ThemeVariables): ThemeLayout {
     column: {
       flexDirection: 'column',
     },
+    layoutAbsolute: {
+      position: 'absolute',
+    },
+    layoutRelative: {
+      position: 'relative',
+    },
     columnReverse: {
       flexDirection: 'column-reverse',
     },
