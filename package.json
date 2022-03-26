@@ -11,9 +11,10 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@polkadot/api": "^7.13.1",
     "@polkadot/keyring": "^8.6.1",
-    "@polkadot/wasm-crypto": "4.6.1",
     "@polkadot/util-crypto": "^8.6.1",
+    "@polkadot/wasm-crypto": "4.6.1",
     "@react-native-async-storage/async-storage": "^1.17.0",
     "@react-native-masked-view/masked-view": "^0.2.6",
     "@react-navigation/bottom-tabs": "^6.2.0",

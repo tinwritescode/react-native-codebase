@@ -16,4 +16,9 @@ export default {
     wallet: 'Wallet',
     user: 'User',
   },
+  wallet: {
+    createOrImportExistingWallet: 'Create or import an existing wallet',
+    restoreWallet: 'Restore a wallet',
+    enterPassphrase: 'Enter your passphrase',
+  },
 }
